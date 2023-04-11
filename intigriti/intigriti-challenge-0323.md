@@ -1,4 +1,4 @@
-# Intigirit Challenge
+# Intigriti Challenge
 
 The challenge can be found here: https://challenge-0323.intigriti.io/
 We are tasked with hacking the flag from the admin account. "The admin user has a note with the flag." The authors also provide us with the source code for the CTF.
